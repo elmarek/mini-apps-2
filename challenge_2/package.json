@@ -6,7 +6,7 @@
   "dependencies": {
     "babel-loader": "^8.1.0",
     "chart.js": "^2.9.3",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "pack": "^2.2.0",
     "pack-cli": "^1.4.5",
     "react": "^16.13.1",
